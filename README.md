@@ -1,5 +1,5 @@
-# flocking-simulation
-My first simulation, programmed in processing.
+# Flocking-Simulation
+My first simulation, programmed in [Processing](https://processing.org).
 
 ## Clone and edit
 Clone this repository with [git](https://git-scm.com/), with the following command: `git clone https://github.com/Paultje52/flocking-simulation.git`.
