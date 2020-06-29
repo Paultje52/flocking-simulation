@@ -14,7 +14,7 @@
     ██████╔╝██║██║░╚═╝░██║╚██████╔╝███████╗██║░░██║░░░██║░░░██║╚█████╔╝██║░╚███║
     ╚═════╝░╚═╝╚═╝░░░░░╚═╝░╚═════╝░╚══════╝╚═╝░░╚═╝░░░╚═╝░░░╚═╝░╚════╝░╚═╝░░╚══╝
     By: Paultje52
-    Github: https://github.com/Paultje52
+    Github: https://github.com/Paultje52/flocking-simulation
     
 Settings: View "settings.pde"
 Boids: View "boid.pde"
